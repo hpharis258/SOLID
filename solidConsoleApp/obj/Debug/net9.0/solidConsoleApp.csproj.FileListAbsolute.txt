@@ -1,0 +1,15 @@
+/Users/haroldasvaranauskas/Desktop/SOLID YOUTUBE/SOLID/solidConsoleApp/bin/Debug/net9.0/solidConsoleApp
+/Users/haroldasvaranauskas/Desktop/SOLID YOUTUBE/SOLID/solidConsoleApp/bin/Debug/net9.0/solidConsoleApp.deps.json
+/Users/haroldasvaranauskas/Desktop/SOLID YOUTUBE/SOLID/solidConsoleApp/bin/Debug/net9.0/solidConsoleApp.runtimeconfig.json
+/Users/haroldasvaranauskas/Desktop/SOLID YOUTUBE/SOLID/solidConsoleApp/bin/Debug/net9.0/solidConsoleApp.dll
+/Users/haroldasvaranauskas/Desktop/SOLID YOUTUBE/SOLID/solidConsoleApp/bin/Debug/net9.0/solidConsoleApp.pdb
+/Users/haroldasvaranauskas/Desktop/SOLID YOUTUBE/SOLID/solidConsoleApp/obj/Debug/net9.0/solidConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haroldasvaranauskas/Desktop/SOLID YOUTUBE/SOLID/solidConsoleApp/obj/Debug/net9.0/solidConsoleApp.AssemblyInfoInputs.cache
+/Users/haroldasvaranauskas/Desktop/SOLID YOUTUBE/SOLID/solidConsoleApp/obj/Debug/net9.0/solidConsoleApp.AssemblyInfo.cs
+/Users/haroldasvaranauskas/Desktop/SOLID YOUTUBE/SOLID/solidConsoleApp/obj/Debug/net9.0/solidConsoleApp.csproj.CoreCompileInputs.cache
+/Users/haroldasvaranauskas/Desktop/SOLID YOUTUBE/SOLID/solidConsoleApp/obj/Debug/net9.0/solidConsoleApp.sourcelink.json
+/Users/haroldasvaranauskas/Desktop/SOLID YOUTUBE/SOLID/solidConsoleApp/obj/Debug/net9.0/solidConsoleApp.dll
+/Users/haroldasvaranauskas/Desktop/SOLID YOUTUBE/SOLID/solidConsoleApp/obj/Debug/net9.0/refint/solidConsoleApp.dll
+/Users/haroldasvaranauskas/Desktop/SOLID YOUTUBE/SOLID/solidConsoleApp/obj/Debug/net9.0/solidConsoleApp.pdb
+/Users/haroldasvaranauskas/Desktop/SOLID YOUTUBE/SOLID/solidConsoleApp/obj/Debug/net9.0/solidConsoleApp.genruntimeconfig.cache
+/Users/haroldasvaranauskas/Desktop/SOLID YOUTUBE/SOLID/solidConsoleApp/obj/Debug/net9.0/ref/solidConsoleApp.dll
